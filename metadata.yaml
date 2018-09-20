@@ -1,5 +1,5 @@
 _repo: Hunnutettu-nainen_53437
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Das Gelübde. Finnish
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '39087'
     url: http://www.gutenberg.org/2009/agents/39087
     wikipedia: https://fi.wikipedia.org/wiki/Werner_Anttila
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hoffmann, E. T. A. (Ernst Theodor Amadeus)
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2008
     wikipedia: http://en.wikipedia.org/wiki/E.T.A._Hoffmann
 description: 'For original German, see #6341.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53437#Hunnutettu-nainen
 gutenberg_issued: '2016-11-02'
 gutenberg_type: Text
 identifiers:
